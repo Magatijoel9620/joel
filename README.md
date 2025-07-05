@@ -27,7 +27,8 @@
 
 ### 📊 GitHub Stats
 
-![Magati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magatijoel&show_icons=true&theme=radical)
+![Magati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Magatijoel9620&show_icons=true&theme=radical&cache_seconds=86400)
+
 
 ---
 
